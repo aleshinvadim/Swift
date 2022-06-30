@@ -1,3 +1,4 @@
 # Swift
-I learn swift programming language sometimes
+I learn swift programming language sometimes.
+
 updates soon..
